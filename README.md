@@ -1,5 +1,7 @@
 # AQM - Air Quality Monitor
 
+![Slightly blurry photo of the gadget](https://raw.githubusercontent.com/n-ovesen/co2/master/static/pic.jpg)
+
 ## What/why?
 
 Basically, this is a little thing I whacked together over a weekend, to win a discussion at the office about the HVAC not being adjusted properly.
